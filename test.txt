@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 3C49-8872
+
+ Directory of C:\Users\zeus\Desktop\Dec_py\Git_session
+
+01/04/2022  10:02 PM    <DIR>          .
+01/04/2022  10:01 PM    <DIR>          ..
+01/04/2022  10:02 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  75,996,532,736 bytes free
+
+This is a new line
