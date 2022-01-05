@@ -3,3 +3,5 @@ git init
 git add <file>
 git add .
 git status
+
+git commit -m "add comment"
